@@ -1,4 +1,4 @@
-# Austin_Software_Co-operatives-
+# Austin_Software_Co-operatives
 https://www.meetup.com/Austin-Software-Co-operatives/about/
 
 This group talks about self-organized software co-operative based issues and solutions such as economics, compensation, structure, strategy, and philosophy. See [www.meetup.com/Austin-Software-Co-operatives](https://www.meetup.com/Austin-Software-Co-operatives/about/) for a list of files. Sign up for access to past videos and/or follow us on Twitter [@vulkcoop](https://twitter.com/vulkcoop).
