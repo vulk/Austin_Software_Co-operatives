@@ -7,8 +7,8 @@ When: This monthly meetup occurs every 1st Wednesday of the month at 7:00 PM to 
 
 Where: Google Hangouts and/or in person in Austin, TX 
 
-## Next meetup: Wednesday, October 3rd, 2018 at 7pm Central Time
- - Topic: The Surprising Power of Liberating Structures: Simple Rules to Unleash A Culture of Innovation by Henri Lipmanowicz and Keith McCandless
+## Next meetup: Wednesday, January 9th, 2019 at 7pm Central Time
+ - Topic: TBD
 
 
 ---
