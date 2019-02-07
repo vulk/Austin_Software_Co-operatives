@@ -7,7 +7,7 @@ When: This monthly meetup occurs every 1st Wednesday of the month at 7:00 PM to 
 
 Where: Google Hangouts and/or in person in Austin, TX 
 
-## Next meetup: Wednesday, January 9th, 2019 at 7pm Central Time
+## Next meetup: Wednesday, March 6th, 2019 at 7pm Central Time
  - Topic: TBD
 
 
