@@ -16,6 +16,11 @@ Where: Google Hangouts and/or in person in Austin, TX
 Slides from previous meetups: 
 ---
 
+- [Wednesday, February 5th, 2018, A Theory of Justice by John Rawls](https://docs.google.com/presentation/d/13wzpnaXsrJ0eO5P310j4gJFw-686oy9pcvK7TmQuAL0/edit#slide=id.p)
+- [Tuesday, January 8th, 2018, Organic Agile Development](https://docs.google.com/presentation/d/1bFITT6NDOvOKNB6OFECbOoGmSttpAeBQXIl7fFKvu10/edit#slide=id.p)
+- [Wednesday, December 5th, 2018, Flawless Consulting](https://docs.google.com/presentation/d/1FYrPd6FZvzbKuEjWDL14x_g2RjKztJ8d116TAb76STk/edit#slide=id.p)
+- [Wednesday, November 7th, 2018, Fairness Workshop](https://docs.google.com/presentation/d/1uGSRWuy14D86Tph7Z_fPNbWxW9nKVknSCMpctAz5aDw/edit#slide=id.p)
+- [Wednesday, October 3rd, 2018, Liberating Structures](https://docs.google.com/presentation/d/1sOf-zWHOKB7gKCN2uA1VNI-y2ChkCUob0MhgfxidKI8/edit#slide=id.p)
 - [Wednesday, September 5th, 2018, The Logic of Collective Action ](https://docs.google.com/presentation/d/1yYETTXTsdxr2ezfkBXH7LMmDT8rrbPbYldgk_va0izY/edit#slide=id.p)
 - [Wednesday, August 8th, 2018 - The Art of Community](https://docs.google.com/presentation/d/15ityS7dYVKMb0nuPNsmMgMSdjYsc6wrguk0Xz90W_D0/edit#slide=id.p)
 - [Wednesday, February 7th, 2018 - Intro to Vulk Coop & FAQ](https://docs.google.com/presentation/d/1qAWtnx45nT0QU0hxpnxEv5HPcjDzx_1o1MjYYIyw1Q0/edit#slide=id.p)
