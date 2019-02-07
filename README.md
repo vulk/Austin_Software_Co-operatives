@@ -7,9 +7,15 @@ When: This monthly meetup occurs every 1st Wednesday of the month at 7:00 PM to 
 
 Where: Google Hangouts and/or in person in Austin, TX 
 
-## Next meetup: Wednesday, March 6th, 2019 at 7pm Central Time
+Next meetup(s): 
+---
+
+### Wednesday, March 6th, 2019 at 7pm Central Time
  - Topic: TBD
 
+### April, 2019 - no meetup
+
+### Saturday, May 4th, 2019 - W.Watson is leading a Co-op Workshop on Fairness with [ACBA](https://acba.coop/)
 
 ---
 
