@@ -10,20 +10,17 @@ Where: Google Hangouts and/or in person in Austin, TX
 Next meetup(s): 
 ---
 
-### Wednesday, March 6th, 2019 at 7pm Central Time
- - Topic: TBD
-
 ### April, 2019 - no meetup
 
-### Saturday, May 4th, 2019 - W.Watson is leading a Co-op Workshop on Fairness with [ACBA](https://acba.coop/)
+### Saturday, May 4th, 2019 at 1-3pm Central Time - W.Watson is leading a Co-op Workshop on Fairness and Compensation with [ACBA](https://acba.coop/)
 
 ---
 
 Slides from previous meetups: 
 ---
-
-- [Wednesday, February 5th, 2018, A Theory of Justice by John Rawls](https://docs.google.com/presentation/d/13wzpnaXsrJ0eO5P310j4gJFw-686oy9pcvK7TmQuAL0/edit#slide=id.p)
-- [Tuesday, January 8th, 2018, Organic Agile Development](https://docs.google.com/presentation/d/1bFITT6NDOvOKNB6OFECbOoGmSttpAeBQXIl7fFKvu10/edit#slide=id.p)
+- [Wednesday, March 6th, 2019, Personal Ecosystem](https://docs.google.com/presentation/d/1Ti8fqXWltGn_9r2oYijlJrkgPrmTd_P2G49ZQp9s8Ow/edit#slide=id.p)
+- [Wednesday, February 5th, 2019, A Theory of Justice by John Rawls](https://docs.google.com/presentation/d/13wzpnaXsrJ0eO5P310j4gJFw-686oy9pcvK7TmQuAL0/edit#slide=id.p)
+- [Tuesday, January 8th, 2019, Organic Agile Development](https://docs.google.com/presentation/d/1bFITT6NDOvOKNB6OFECbOoGmSttpAeBQXIl7fFKvu10/edit#slide=id.p)
 - [Wednesday, December 5th, 2018, Flawless Consulting](https://docs.google.com/presentation/d/1FYrPd6FZvzbKuEjWDL14x_g2RjKztJ8d116TAb76STk/edit#slide=id.p)
 - [Wednesday, November 7th, 2018, Fairness Workshop](https://docs.google.com/presentation/d/1uGSRWuy14D86Tph7Z_fPNbWxW9nKVknSCMpctAz5aDw/edit#slide=id.p)
 - [Wednesday, October 3rd, 2018, Liberating Structures](https://docs.google.com/presentation/d/1sOf-zWHOKB7gKCN2uA1VNI-y2ChkCUob0MhgfxidKI8/edit#slide=id.p)
