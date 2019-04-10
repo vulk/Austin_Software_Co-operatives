@@ -12,7 +12,9 @@ Next meetup(s):
 
 ### April, 2019 - no meetup
 
-### Saturday, May 4th, 2019 at 1-3pm Central Time - W.Watson is leading a Co-op Workshop on Fairness and Compensation with [ACBA](https://acba.coop/)
+### Saturday, May 4th, 2019 at 1-3pm Central Time at fibercove (1700 S. Lamar Blvd, Ste 338) - W.Watson is leading a Co-op Workshop on Fairness and Compensation with [ACBA](https://acba.coop/)
+
+### Wed, June 5, 2019 at 7pm Central Time via Google Hangouts -- Better Work Together Book Review https://www.betterworktogether.co/buythebook
 
 ---
 
