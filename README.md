@@ -10,9 +10,7 @@ Where: Google Hangouts and/or in person in Austin, TX
 Next meetup(s): 
 ---
 
-### Saturday, May 4th, 2019 at 1-3pm Central Time at fibercove (1700 S. Lamar Blvd, Ste 338) - W.Watson is leading a Co-op Workshop on Fairness and Compensation with [ACBA](https://acba.coop/)
-
-### Wednesday, June 5th, 2019 at 7pm Central Time via Google Hangouts -- Better Work Together Book Review https://www.betterworktogether.co/buythebook
+### Wednesday, July 3rd, 2019 at 7pm Central Time via Google Hangouts
 
 ---
 
