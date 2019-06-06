@@ -16,6 +16,7 @@ Next meetup(s):
 
 Slides from previous meetups: 
 ---
+- [Wednesday, June 5th, 2019, Better Work Together by Enspiral Foundation](https://docs.google.com/presentation/d/1zPM3tnLeK0g8mQ3XBNtJF9js5PGeHpUJ366ckDvlmKo/edit#slide=id.p)
 - [Wednesday, March 6th, 2019, Personal Ecosystem](https://docs.google.com/presentation/d/1Ti8fqXWltGn_9r2oYijlJrkgPrmTd_P2G49ZQp9s8Ow/edit#slide=id.p)
 - [Wednesday, February 5th, 2019, A Theory of Justice by John Rawls](https://docs.google.com/presentation/d/13wzpnaXsrJ0eO5P310j4gJFw-686oy9pcvK7TmQuAL0/edit#slide=id.p)
 - [Tuesday, January 8th, 2019, Organic Agile Development](https://docs.google.com/presentation/d/1bFITT6NDOvOKNB6OFECbOoGmSttpAeBQXIl7fFKvu10/edit#slide=id.p)
