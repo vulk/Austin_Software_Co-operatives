@@ -7,10 +7,10 @@ When: This monthly meetup occurs every 1st Wednesday of the month at 7:00 PM to 
 
 Where: Google Hangouts and/or in person in Austin, TX 
 
-Next meetup(s): Book review: [Justice by Michael J. Sandel](https://www.goodreads.com/book/show/6452731-justice)
+Next meetup(s): TBD
 ---
 
-### Wednesday, August 4th, 2021 at 7pm Central Time via Zoom
+### Wednesday, October 6th, 2021 at 7pm Central Time via Zoom
 
 ---
 
