@@ -7,10 +7,26 @@ When: This monthly meetup occurs every 1st Wednesday of the month at 7:00 PM to 
 
 Where: Google Hangouts and/or in person in Austin, TX 
 
-Next meetup(s): TBD
+Future meetup dates and topics:
 ---
 
-### Wednesday, October 6th, 2021 at 7pm Central Time via Zoom
+### Wednesday, October 6th, 2021 at 7pm Central Time via Zoom 
+- Topic: TBD
+
+### Wednesday, November 3rd, 2021 at 7pm Central Time via Zoom
+- Topic: TBD
+
+### Wednesday, December 1st, 2021 at 7pm Central Time via Zoom
+- Topic: TBD
+
+### Wednesday, January 5th, 2022 at 7pm Central Time via Zoom
+- Topic: TBD
+
+### Wednesday, February 2nd, 2022 at 7pm Central Time via Zoom
+- Topic: TBD
+
+### Wednesday, March 2nd, 2022 at 7pm Central Time via Zoom
+- Topic: TBD
 
 ---
 
