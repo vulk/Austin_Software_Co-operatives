@@ -11,7 +11,9 @@ Future meetup dates and topics:
 ---
 
 ### Wednesday, October 6th, 2021 at 7pm Central Time via Zoom 
-- Topic: TBD
+- Topic: Book Review: Cybernetic Revolutionaries: Technology and Politics in Allende's Chile
+  - Proposed by: [Jose Montoya](https://github.com/jam01)
+  - Presented by: [Jose Montoya](https://github.com/jam01)
 
 ### Wednesday, November 3rd, 2021 at 7pm Central Time via Zoom
 - Topic: TBD
