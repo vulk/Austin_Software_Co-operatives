@@ -10,13 +10,10 @@ Where: Google Hangouts and/or in person in Austin, TX
 Future meetup dates and topics:
 ---
 
-### Wednesday, October 6th, 2021 at 7pm Central Time via Zoom 
-- Topic: Book Review: Cybernetic Revolutionaries: Technology and Politics in Allende's Chile
-  - Proposed by: [Jose Montoya](https://github.com/jam01)
-  - Presented by: [Jose Montoya](https://github.com/jam01)
-
 ### Wednesday, November 3rd, 2021 at 7pm Central Time via Zoom
-- Topic: TBD
+- Topic: Book Review: Co-Opetition by Adam M. Brandenburger, Barry J. Nalebuff 
+  - Proposed by: Taylor Carpenter(https://github.com/taylor)
+  - Presented by: W. Watson(https://github.com/wavell)
 
 ### Wednesday, December 1st, 2021 at 7pm Central Time via Zoom
 - Topic: TBD
@@ -34,6 +31,7 @@ Future meetup dates and topics:
 
 Slides from previous meetups: 
 ---
+- [October 2021 Meetup | Book Review: Cybernetic Revolutionaries: Technology and Politics in Allende's Chile](https://docs.google.com/presentation/d/1cEpCRarZU29c4GfNlaG5nIL3VRC9400--z-JTjy2MeM/edit)
 - [July 2021 Meetup | Book Review: Jackson Rising Part II - People's Assemblies](https://docs.google.com/presentation/d/1O4SL2YV6BQ9gHrkvKs6JG7N3jbBeTRtZDfO4DqtTSX8/edit#slide=id.p)
 - [June 2021 Meetup | Book Review: Jackson Rising Part 1](https://docs.google.com/presentation/d/1wS-K3k6ARXifZpb29WgNBSBp5l_E2M88SMJi7kTTPF4/edit#slide=id.p)
 - [May 2021 | Part II - The Democratic Worker-Owned Firm, David Ellerman](https://docs.google.com/presentation/d/1Fj13bn4ioGBbH3NQvbLK5w1c2qBh8-uyYM-RzSTp7Ao/edit#slide=id.p)
