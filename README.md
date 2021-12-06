@@ -10,16 +10,9 @@ Where: Google Hangouts and/or in person in Austin, TX
 Future meetup dates and topics:
 ---
 
-### Wednesday, November 3rd, 2021 at 7pm Central Time via Zoom
-- Topic: Book Review: Co-Opetition by Adam M. Brandenburger, Barry J. Nalebuff 
-  - Proposed by: Taylor Carpenter(https://github.com/taylor)
-  - Presented by: W. Watson(https://github.com/wavell)
-
-### Wednesday, December 1st, 2021 at 7pm Central Time via Zoom
-- Topic: TBD
-
 ### Wednesday, January 5th, 2022 at 7pm Central Time via Zoom
-- Topic: TBD
+- Topic: Design Justice: Community-Led Practices to Build the Worlds We Need (Information Policy) 
+  - Presented by: W. Watson(https://github.com/wavell)
 
 ### Wednesday, February 2nd, 2022 at 7pm Central Time via Zoom
 - Topic: TBD
@@ -31,6 +24,8 @@ Future meetup dates and topics:
 
 Slides from previous meetups: 
 ---
+- [December 2021 Meetup | Book Review: Neo-Abolitionism by David Ellerman](https://elkner.net/NeoAbolitionism/#1)
+- [November 2021 Meetup | Book Review: Co-Opetition by Adam M Brandenburger, Barry J Nalebuff](https://docs.google.com/presentation/d/1L1ZPGgVhP-2aSUcx88hohP223j67O7tHakMprfUG9RQ/edit?pli=1#slide=id.p)
 - [October 2021 Meetup | Book Review: Cybernetic Revolutionaries: Technology and Politics in Allende's Chile](https://docs.google.com/presentation/d/1cEpCRarZU29c4GfNlaG5nIL3VRC9400--z-JTjy2MeM/edit)
 - [July 2021 Meetup | Book Review: Jackson Rising Part II - People's Assemblies](https://docs.google.com/presentation/d/1O4SL2YV6BQ9gHrkvKs6JG7N3jbBeTRtZDfO4DqtTSX8/edit#slide=id.p)
 - [June 2021 Meetup | Book Review: Jackson Rising Part 1](https://docs.google.com/presentation/d/1wS-K3k6ARXifZpb29WgNBSBp5l_E2M88SMJi7kTTPF4/edit#slide=id.p)
