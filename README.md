@@ -27,7 +27,7 @@ Future meetup dates and topics:
 
 Slides from previous meetups: 
 ---
-- [FEB 2022 Meetup | Chapters 1&2https://docs.google.com/presentation/d/1uF7xGz-Qj7xoLub06HOt_Lx6ghXHRez4aSYtCy3asFY/edit#slide=id.p): Design Justice: Community-Led Practices to Build the Worlds We Need](
+- [FEB 2022 Meetup | Chapters 1&2: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1uF7xGz-Qj7xoLub06HOt_Lx6ghXHRez4aSYtCy3asFY/edit#slide=id.p)
 - [JAN 2022 Meetup | Book Review: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1afVOYQ2Tz1mmfRyFZbLxHFR91S7bUR9Fu5RAPsfKC2g/edit#slide=id.p)
 - [December 2021 Meetup | Book Review: Neo-Abolitionism by David Ellerman](https://elkner.net/NeoAbolitionism/#1)
 - [November 2021 Meetup | Book Review: Co-Opetition by Adam M Brandenburger, Barry J Nalebuff](https://docs.google.com/presentation/d/1L1ZPGgVhP-2aSUcx88hohP223j67O7tHakMprfUG9RQ/edit?pli=1#slide=id.p)
