@@ -10,20 +10,25 @@ Where: Google Hangouts and/or in person in Austin, TX
 Future meetup dates and topics:
 ---
 
-### Wednesday, January 5th, 2022 at 7pm Central Time via Zoom
-- Topic: Design Justice: Community-Led Practices to Build the Worlds We Need (Information Policy) 
-  - Presented by: W. Watson(https://github.com/wavell)
+### Wednesday, March 2nd, 2022 at 7pm Central Time via Zoom
+- Topic: Review of https://coopcloud.tech/ and interview with coopcloud provider autonomic.
+  - Hosted by: W. Watson(https://github.com/wavell)
 
-### Wednesday, February 2nd, 2022 at 7pm Central Time via Zoom
+### Wednesday, April 6th, 2022 at 7pm Central Time via Zoom
 - Topic: TBD
 
-### Wednesday, March 2nd, 2022 at 7pm Central Time via Zoom
+### Wednesday, May 4th, 2022 at 7pm Central Time via Zoom
+- Topic: TBD
+
+### Wednesday, June 1st, 2022 at 7pm Central Time via Zoom
 - Topic: TBD
 
 ---
 
 Slides from previous meetups: 
 ---
+- [FEB 2022 Meetup | Chapters 1&2https://docs.google.com/presentation/d/1uF7xGz-Qj7xoLub06HOt_Lx6ghXHRez4aSYtCy3asFY/edit#slide=id.p): Design Justice: Community-Led Practices to Build the Worlds We Need](
+- [JAN 2022 Meetup | Book Review: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1afVOYQ2Tz1mmfRyFZbLxHFR91S7bUR9Fu5RAPsfKC2g/edit#slide=id.p)
 - [December 2021 Meetup | Book Review: Neo-Abolitionism by David Ellerman](https://elkner.net/NeoAbolitionism/#1)
 - [November 2021 Meetup | Book Review: Co-Opetition by Adam M Brandenburger, Barry J Nalebuff](https://docs.google.com/presentation/d/1L1ZPGgVhP-2aSUcx88hohP223j67O7tHakMprfUG9RQ/edit?pli=1#slide=id.p)
 - [October 2021 Meetup | Book Review: Cybernetic Revolutionaries: Technology and Politics in Allende's Chile](https://docs.google.com/presentation/d/1cEpCRarZU29c4GfNlaG5nIL3VRC9400--z-JTjy2MeM/edit)
