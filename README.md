@@ -15,8 +15,9 @@ Future meetup dates and topics:
   - Hosted by: W. Watson(https://github.com/wavell)
 
 ### Wednesday, April 6th, 2022 at 7pm Central Time via Zoom
-- Topic: TBD
-
+- Topic: Continue Book Review of Design Justice (Chapters 3 & 4)
+  - Hosted by: W. Watson(https://github.com/wavell)
+  
 ### Wednesday, May 4th, 2022 at 7pm Central Time via Zoom
 - Topic: TBD
 
