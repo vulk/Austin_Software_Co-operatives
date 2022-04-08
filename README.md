@@ -9,17 +9,10 @@ Where: Google Hangouts and/or in person in Austin, TX
 
 Future meetup dates and topics:
 ---
-
-### Wednesday, March 2nd, 2022 at 7pm Central Time via Zoom
-- Topic: Review of https://coopcloud.tech/ and interview with coopcloud provider autonomic.
-  - Hosted by: W. Watson(https://github.com/wavell)
-
-### Wednesday, April 6th, 2022 at 7pm Central Time via Zoom
-- Topic: Continue Book Review of Design Justice (Chapters 3 & 4)
-  - Hosted by: W. Watson(https://github.com/wavell)
   
 ### Wednesday, May 4th, 2022 at 7pm Central Time via Zoom
-- Topic: TBD
+- Book Review: Democracy Incorporated by Sheldon S. Wolin
+  - Hosted by: W. Watson(https://github.com/wavell)
 
 ### Wednesday, June 1st, 2022 at 7pm Central Time via Zoom
 - Topic: TBD
@@ -28,6 +21,8 @@ Future meetup dates and topics:
 
 Slides from previous meetups: 
 ---
+- [APR 2022 Meetup | Chatpers 3 & 4: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1BLwjF7g28dWNvrLkWSKHbum0q0HsOTxw7o75PMo9nGU/edit#slide=id.p)
+- [MAR 2022 Meetup | Interview with Autonomic's Trav Fryer about Co-op Cloud](https://docs.google.com/presentation/d/1MRGAZV_O5W7seswiG4vVBi_ssh85qNifRZYq4inAwhs/edit#slide=id.p)
 - [FEB 2022 Meetup | Chapters 1&2: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1uF7xGz-Qj7xoLub06HOt_Lx6ghXHRez4aSYtCy3asFY/edit#slide=id.p)
 - [JAN 2022 Meetup | Book Review: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1afVOYQ2Tz1mmfRyFZbLxHFR91S7bUR9Fu5RAPsfKC2g/edit#slide=id.p)
 - [December 2021 Meetup | Book Review: Neo-Abolitionism by David Ellerman](https://elkner.net/NeoAbolitionism/#1)
