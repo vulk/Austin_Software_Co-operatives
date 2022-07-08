@@ -10,18 +10,22 @@ Where: Google Hangouts and/or in person in Austin, TX
 Future meetup dates and topics:
 ---
   
-### Wednesday, May 4th, 2022 at 7pm Central Time via Zoom
-- Book Review: Democracy Incorporated by Sheldon S. Wolin
+### Wednesday, August 3rd, 2022 at 7pm Central Time via Zoom
+- [Book Review: The Age of Surveillance Capitalism by Shoshana Zuboff](https://www.meetup.com/austin-software-co-operatives/events/gzxfglydclbfb/)
   - Hosted by: W. Watson(https://github.com/wavell)
 
-### Wednesday, June 1st, 2022 at 7pm Central Time via Zoom
-- Topic: TBD
+### Wednesday, September 7th, 2022 at 7pm Central Time via Zoom
+- Book Review: Mutual Aid: A Factor in Evolution (Part 2)
+  - Hosted by: W. Watson(https://github.com/wavell)
 
 ---
 
 Slides from previous meetups: 
 ---
-- [APR 2022 Meetup | Chatpers 3 & 4: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1BLwjF7g28dWNvrLkWSKHbum0q0HsOTxw7o75PMo9nGU/edit#slide=id.p)
+- [JULY 2022 Meetup | No Shortcuts: Organizing for Power in the New Gilded Age - Jane F. McAlevey](https://www.mindomo.com/mindmap/f36e67d4c3514821948389a103915e1b)
+- [JUNE 2022 Meetup | Book Review: Mutual Aid: A Factor in Evolution](https://docs.google.com/presentation/d/1kmJIXClg-UOvyVT-Blt5MkLUpKyVbI-7zU86OMCtCLs/edit#slide=id.p)
+- [MAY 2022 Meetup | Book Review: Democracy Incorporated by Sheldon S. Wolin](https://docs.google.com/presentation/d/1rC5DMnUll8sjG1ElOenm9Fg5y2Vam-mWVvFwFKoZAAI/edit#slide=id.g309c0578bd_0_100)
+- [APR 2022 Meetup | Chapters 3 & 4: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1BLwjF7g28dWNvrLkWSKHbum0q0HsOTxw7o75PMo9nGU/edit#slide=id.p)
 - [MAR 2022 Meetup | Interview with Autonomic's Trav Fryer about Co-op Cloud](https://docs.google.com/presentation/d/1MRGAZV_O5W7seswiG4vVBi_ssh85qNifRZYq4inAwhs/edit#slide=id.p)
 - [FEB 2022 Meetup | Chapters 1&2: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1uF7xGz-Qj7xoLub06HOt_Lx6ghXHRez4aSYtCy3asFY/edit#slide=id.p)
 - [JAN 2022 Meetup | Book Review: Design Justice: Community-Led Practices to Build the Worlds We Need](https://docs.google.com/presentation/d/1afVOYQ2Tz1mmfRyFZbLxHFR91S7bUR9Fu5RAPsfKC2g/edit#slide=id.p)
