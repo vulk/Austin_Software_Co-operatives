@@ -5,7 +5,7 @@ This group talks about self-organized software co-operative based issues and sol
 
 When: This monthly meetup occurs every 1st Wednesday of the month at 7:00 PM to 8:00 PM Central Time 
 
-Where: Google Hangouts and/or in person in Austin, TX 
+Where: Zoom and/or in person in Austin, TX 
 
 Future meetup dates and topics:
 ---
