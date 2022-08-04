@@ -11,7 +11,7 @@ Future meetup dates and topics:
 ---
 
 ### Wednesday, September 7th, 2022 at 7pm Central Time via Zoom
-- Book Review: Mutual Aid: A Factor in Evolution (Part 2)
+- [Book Review: Part 2 - Mutual Aid: A Factor in Evolution by Peter Kropotkin](https://www.meetup.com/austin-software-co-operatives/events/286307057/)
   - Hosted by: [W. Watson](https://github.com/wavell)
 
 ### Wednesday, October 5th, 2022 at 7pm Central Time via Zoom
