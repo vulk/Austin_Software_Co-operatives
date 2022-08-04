@@ -9,15 +9,15 @@ Where: Zoom and/or in person in Austin, TX
 
 Future meetup dates and topics:
 ---
-  
-### Wednesday, August 3rd, 2022 at 7pm Central Time via Zoom
-- [Book Review: The Age of Surveillance Capitalism by Shoshana Zuboff](https://www.meetup.com/austin-software-co-operatives/events/gzxfglydclbfb/)
-  - Hosted by: [W. Watson](https://github.com/wavell)
 
 ### Wednesday, September 7th, 2022 at 7pm Central Time via Zoom
 - Book Review: Mutual Aid: A Factor in Evolution (Part 2)
   - Hosted by: [W. Watson](https://github.com/wavell)
 
+### Wednesday, October 5th, 2022 at 7pm Central Time via Zoom
+- [Book Review: Part 2 - The Age of Surveillance Capitalism by Shoshana Zuboff](https://www.meetup.com/Austin-Software-Co-operatives/events/287615781/)
+  - Hosted by: [W. Watson](https://github.com/wavell)
+  
 ---
 
 Slides from previous meetups: 
